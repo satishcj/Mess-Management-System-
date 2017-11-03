@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 Nov, 2017, 10:22:04 AM
+    Author     : Dolly
+*/
+
+div.dashboard {
+    border: 3px solid #f1f1f1;
+    background-color: #e1e7ea;
+    height: 100%;
+    border-radius: 12px;
+}
+
+button.tile{
+    height: 200px;
+    width: 300px;
+    background-color: #34617c;
+    color: white;
+    font-size: 30px;
+    padding: 14px 20px;
+    margin-left:60px;
+    margin-top:20px;
+    margin-right:60px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px; 
+}
+
+.tile:hover {
+    opacity: 0.8;
+}
